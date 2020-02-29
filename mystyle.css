@@ -1,0 +1,47 @@
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #cae8ca;
+  border: 2px solid #4CAF50;
+}
+body {
+  background-color: linen;
+}
+h1 {
+  color: maroon;
+  text-align: center;
+}
+h2 {
+  font-family: verdana;
+  font-size: 20px;
+  color: darkcyan;
+  text-align: center;
+}
+p {
+  font-family: verdana;
+  font-size: 15px;
+  text-align: left;
+}
+img {
+  border-radius: 8px;
+}
+img {
+  display: block;
+  margin-top: 2000px;
+  margin-left: 300px;
+}
+div.container {
+  box-sizing: border-box;
+  width: 75%;
+  border: 2px solid olivedrab;
+  float: left;
+}
+
+div.box {
+  box-sizing: border-box;
+  width: 25%;
+  border: 2px solid blue;
+  float: left;
+}

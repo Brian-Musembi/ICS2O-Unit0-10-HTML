@@ -1,0 +1,33 @@
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
+
+body {
+  background-color: coral;
+}
+h2 {
+  font-family: verdana;
+  font-size: 20px;
+  color: darkcyan;
+  text-align: center;
+}
+h1 {
+  color: black;
+  text-align: left
+;
+}
+.newspaper {
+  column-count: 3;
+  column-gap: 40px;
+  column-rule-style: solid;
+  column-rule-width: 1px;
+}
+footer {
+  background-color: #9370DB;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
